@@ -24,6 +24,7 @@ and effective communication across different levels of development has consisten
 - Solution Owner Consulting
 - Project Management 
 - Team Management
+- Strategic Management
    
 ### 📫 How to reach me
  - LinkedIn: https://linkedin.com/in/herculanochaves
